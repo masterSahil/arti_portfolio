@@ -1,5 +1,5 @@
 const textArray = ["Full Stack Developement", "Android Developement", "Flutter Developement"];
-const typingSpeed = 100; 
+const typingSpeed = 150; 
 const erasingSpeed = 30; 
 const delayBetweenWords = 500; 
 const targetElement = document.getElementById("typing-effect");
