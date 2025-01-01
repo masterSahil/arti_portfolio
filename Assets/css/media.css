@@ -1,0 +1,690 @@
+@media screen and (max-width: 1100px) {
+    .headerIcons{
+        width: 20vw;
+    }
+}
+@media screen and (max-width: 850px) {
+    .headerIcons{
+        width: 25vw;
+    }
+    header{
+        height: 10vw;
+    }
+}
+@media screen and (max-width: 650px) {
+    .headerIcons{
+        width: 30vw;
+    }
+    .logo{
+        font-size: 28px;
+    }
+}
+@media screen and (max-width: 550px) {
+    .headerIcons{
+        width: 35vw;
+    }
+    header{
+        height: 15vw;
+    }
+    .logo{
+        font-size: 24px;
+    }
+}
+@media screen and (max-width: 450px) {
+    .headerIcons{
+        display: none;
+    }
+    .menu{
+        display: block;
+    }
+}
+@media screen and (max-width: 400px) {
+    .dropdown-menu{
+        left: -38vw;
+    }
+}
+@media screen and (max-width: 1300px) {
+    .main{
+        width: 420px;
+        height: 450px;
+    }
+}
+@media screen and (max-width: 1200px) {
+    .main{
+        margin-top: 0;
+    }
+    .content{
+        margin-right: 1vw;
+    }
+}
+@media screen and (max-width: 1140px) {
+    .heading{
+        text-wrap: wrap;
+    }
+}
+@media screen and (min-width: 1100px) and (max-width: 1140px) {
+    .content{
+        margin-left: 4vw;
+    }
+}
+@media screen and (min-width: 1000px) and (max-width: 1050px) {
+    .content{
+        margin-left: 5.5vw;
+    }
+}
+@media screen and (max-width: 1000px) {
+    .banner{
+        flex-direction: column;
+    }
+    .imgContaining{
+        width: 90vw;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+    }
+    .main{
+        margin: 0 auto;
+    }
+    .span{
+        max-width: 70vw;
+        margin: 0 auto;
+        text-align: left;
+    }
+    .content{
+        width: 90vw;
+        text-align: center;
+        margin-left: 0;
+    }
+    .headingsJs{
+        margin: 0 auto 3vw 0;
+        justify-content: center;
+    }
+    .para{
+        margin: 2vw auto;
+        text-align: left;
+        max-width: 70vw;
+        font-size: 26px;
+    }
+    .heading{
+        margin: 5vw 0 2vw 0;
+    }
+}
+@media screen and (max-width: 850px) {
+    .main{
+        height: 400px;
+        width: 380px;
+    }
+    .para{
+        font-size: 24px;
+    }
+}
+@media screen and (max-width: 700px) {
+    .main{
+        width: 320px;
+        height: 360px;
+    }
+    .para{
+        font-size: 22px;
+    }
+}
+@media screen and (max-width: 550px) {
+    .main{
+        width: 270px;
+        height: 300px;
+    }
+    .para{
+        font-size: 18px;
+    }
+}
+@media screen and (max-width: 450px) {
+    .main{
+        width: 250px;
+        height: 280px;
+    }
+}
+@media screen and (max-width: 400px) {
+    .main{
+        width: 220px;
+        height: 240px;
+    }
+    .para{
+        font-size: 16px;
+    }
+}
+@media screen and (max-width: 750px) {
+    .heading{
+        font-size: 48px;
+    }
+    .heading2{
+        font-size: 36px;
+    }
+}
+@media screen and (max-width: 600px) {
+    .heading{
+        font-size: 42px;
+    }
+    .heading2{
+        font-size: 32px;
+    }
+    .typing-container{
+        font-size: 28px;
+    }
+}
+@media screen and (max-width: 550px) {
+    .heading{
+        font-size: 34px;
+    }
+    .heading2{
+        font-size: 28px;
+    }
+    .typing-container{
+        font-size: 24px;
+    }
+}
+@media screen and (max-width: 450px) {
+    .heading{
+        font-size: 30px;
+    }
+    .heading2{
+        font-size: 28px;
+    }
+    .typing-container{
+        font-size: 24px;
+    }
+}
+@media screen and (max-width: 400px) {
+    .heading{
+        font-size: 26px;
+    }
+    .heading2{
+        font-size: 24px;
+    }
+    .typing-container{
+        font-size: 20px;
+    }
+}
+@media screen and (min-width: 1200px) {
+    .imgContaining{
+        display: flex;
+        justify-content: flex-end;
+    }
+}
+@media screen and (max-width: 1407px) {
+    .educationBox{
+        height: 14vw;
+    }
+}
+@media screen and (min-width: 1200px) and (max-width: 1300px) {
+    .educationBox{
+        min-height: 18vw;
+    }
+}
+@media screen and (min-width: 1100px) and (max-width: 1200px) {
+    .educationBox{
+        min-height: 20vw;
+    }
+}
+@media screen and (max-width: 1100px) {
+    .educationBox{
+        min-height: 20.5vw;
+    }
+}
+@media screen and (max-width: 1050px) {
+    .educationBox{
+        min-height: 23vw;
+    }
+}
+@media screen and (max-width: 1000px) {
+    .container{
+        width: 80vw;
+    }
+
+    .educationBox{
+        width: 35vw;
+    }
+}
+@media screen and (max-width: 900px) {
+    .degree{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width: 850px) {
+    .educationBox{
+        height: 28vw;
+    }
+}
+@media screen and (max-width: 700px) {
+    .degree{
+        font-size: 24px;
+    }
+    .container{
+        flex-direction: column;
+    }
+    .educationBox{
+        width: 100%;
+        margin: 2vw 0;
+        min-height: fit-content;
+        padding: 3vw 1vw 0 3vw;
+    }
+    .educateImg{
+        height: 10vw;
+        margin-right: 2vw;
+    }
+    .description, .skills{
+        margin-left: 12vw;
+    }
+    .duration{
+        font-size: 18px;
+    }
+}
+@media screen and (max-width: 450px) {
+    .degree{
+        margin-top: 2vw;
+        font-size: 20px;
+    }
+    .container{
+        width: 100vw;
+        justify-content: center;
+        align-items: center;
+    }
+    .educationBox{
+        width: 86vw;
+    }
+    .educateImg{
+        margin-right: 3vw;
+    }
+    .heading3, .heading4, .heading5, .heading7, .heading8{
+        font-size: 42px;
+    }
+}
+@media screen and (max-width: 400px) {
+    .educationBox{
+        width: 80vw;
+    }
+    .educateImg{
+        height: 15vw;
+    }
+    .description, .skills{
+        margin-left: 0;
+    }
+    .heading3, .heading4, .heading5, .heading7, .heading8{
+        font-size: 36px;
+    }
+    .btn3{
+        padding: 8px 16px;
+    }
+}
+@media screen and (max-width: 1400px) {
+    .container2{
+        flex-wrap: wrap;
+    }
+    .content4{
+        width: 30vw;
+        margin: 2vw;
+    }
+}
+@media screen and (max-width: 1000px) {
+    .content4{
+        width: 36vw;
+        margin: 2vw;
+    }
+}
+@media screen and (max-width: 1100px) {
+    .expImg{
+        width: 7vw;
+    }
+}
+@media screen and (max-width: 900px) {
+    .expImg{
+        width: 8vw;
+    }
+}
+@media screen and (max-width: 700px) {
+    .expImg{
+        width: 10vw;
+    }
+    .content4{
+        justify-content: flex-start;
+        width: 40vw;
+    }
+}
+@media screen and (max-width: 550px) {
+    .container2{
+        flex-direction: column;
+    }
+    .content4{
+        width: 80vw;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 4vw;
+    }
+    .content4:first-child{
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .expImg, .jobname{
+        display: inline;
+        text-align: left;
+    }
+    .jobname{
+        max-width: fit-content;
+    }
+    .expImg{
+        width: 13vw;
+        height: 13vw;
+        margin: 0;
+        margin-right: 2vw;
+    }
+    .info2{
+        flex-direction: row;
+    }
+    .duration2, .workPlace{
+        margin-top: 1vw;
+        margin-left: 15vw;
+    }
+}
+@media screen and (max-width: 500px) {
+    .description2{
+        margin-top: 2vw;
+    }
+}
+@media screen and (max-width: 400px) {
+    .jobname{
+        font-size: 20px;
+    }
+}
+@media screen and (min-width: 450px) and (max-width: 600px) {
+    .degree{
+        margin-top: 2vw;
+    }
+}
+@media screen and (min-width: 1600px) {
+    .btn3{
+        padding: 15px 35px;
+        border-radius: 10px;
+    }
+}
+@media screen and (min-width: 1400px) {
+    .content5{
+        display: flex;
+    }
+    .content5Two{
+        display: none;
+    }
+}
+@media screen and (max-width: 1400px) {
+    .content5{
+        display: none;
+    }
+    .content5Two{
+        display: flex;
+        width: 90vw;
+        flex-wrap: wrap;
+        margin: 0 auto;
+        justify-content: space-evenly;
+    }
+    .work{
+        width: 40vw;
+    }
+    .imgContaining2{
+        height: 20vw;
+    }
+}
+@media screen and (max-width: 1000px) {
+    .work{
+        width: 40vw;
+    }
+    .para2{
+        font-size: 16px;
+        margin: 2vw 20vw 5vw 20vw;
+    }
+}
+@media screen and (max-width: 950px) {
+    .work{
+        width: 42vw;
+    }
+    .content5Two{
+        width: 90vw;
+    }
+}
+@media screen and (max-width: 850px) {
+    .imgContaining2{
+        height: 25vw;
+    }
+}
+@media screen and (max-width: 800px) {
+    .work{
+        width: 46vw;
+    }
+}
+@media screen and (max-width: 700px) {
+    .content5Two{
+        width: 100vw;
+    }
+    .work{
+        width: 70vw;
+        height: 85vw;
+        margin: 2vw auto;
+    }
+    .imgContaining2{
+        height: 45vw;
+    }
+    .para2{
+        margin: 2vw 15vw 5vw 15vw;
+    }
+}
+@media screen and (max-width: 660px) {
+    .work{
+        height: 95vw;
+    }
+}
+@media screen and (max-width: 570px) {
+    .work{
+        height: 103vw;
+        width: 80vw;
+    }
+}
+@media screen and (max-width: 500px) {
+    .work{
+        height: 110vw;
+        width: 80vw;
+    }
+}
+@media screen and (max-width: 460px) {
+    .work{
+        min-height: fit-content;
+        height: 120vw;
+        width: 80vw;
+    }
+    .description3{
+        font-size: 15px;
+    }
+    .heading6{
+        font-size: 22px;
+    }
+}
+@media screen and (max-width: 400px) {
+    .work{
+        min-height: fit-content;
+        height: 120vw;
+        width: 88vw;
+    }
+    .heading6{
+        font-size: 20px;
+    }
+    .description3, .span{
+        font-size: 14px;
+    }
+    .description3{
+        text-align: justify;
+    }
+    .info3{
+        padding: 2.5vw;
+    }
+    .skillBtn3{
+        padding: 5px 10px;
+    }
+    .para2{
+        margin: 2vw 10vw 5vw 10vw;
+        line-height: 20px;
+    }
+    footer{
+        height: 45vw;
+        padding: 5vw;
+    }
+    .footerIconBox i{
+        font-size: 20px;
+    }
+    footer p{
+        margin: 3vw 5vw;
+        text-align: center;
+    }
+    .fixed{
+        padding: 10px;
+        bottom: 10px;
+        right: 10px;
+    }
+}
+@media screen and (max-width: 360px) {
+    .work{
+        padding-bottom: 2vw;
+    }
+}
+@media screen and (max-width: 700px) {
+    .work{
+        margin: 3vw 0;
+    }
+}
+@media screen and (max-width: 1450px) {
+    .content6, .ratio{
+        width: 20vw;
+    }
+    .containing6{
+        width: 80vw;
+    }
+}
+@media screen and (max-width: 1350px) {
+    .content6, .ratio{
+        width: 15vw;
+    }
+    .containing6{
+        width: 70vw;
+        justify-content: center;
+    }
+}
+@media screen and (max-width: 1200px) {
+    .content6, .ratio{
+        width: 17.5vw;
+    }
+    .containing6{
+        width: 75vw;
+        justify-content: center;
+    }
+    footer{
+        height: 15vw;
+    }
+}
+@media screen and (max-width: 1120px) {
+    .content6, .ratio{
+        width: 17vw;
+    }
+    .containing6{
+        width: 80vw;
+        justify-content: center;
+    }
+}
+@media screen and (max-width: 900px) {
+    .content6{
+        padding: 20px;
+        width: 19vw;
+    }
+    .containgInput input{
+        width: 30vw;
+    }
+    textarea{
+        width: 66vw;
+    }
+}
+@media screen and (max-width: 732px) {
+    .titleDiv h2{
+        font-size: 14px;
+    }
+    .content6{
+        padding: 15px 20px;
+    }
+    .ratio{
+        align-self: center;
+    }
+    .ratioSpan{
+        height: 8px;
+    }
+    .content6{
+        width: 17.6vw;
+    }
+    footer{
+        height: 20vw;
+    }
+}
+@media screen and (max-width: 600px) {
+    .containing6{
+        flex-direction: column;
+    }
+    .content6{
+        width: 90%;
+        padding: 20px;
+    }
+    .ratio{
+        width: 100%;
+        margin-top: 2vw;
+    }
+    .titleDiv h2{
+        font-size: 16px;
+    }
+    .containgInput input{
+        width: 35vw;
+    }
+    textarea{
+        width: 76vw;
+    }
+    .containgInput input{
+        margin-bottom: 3vw;
+        padding: 2.5vw 2vw;
+    }
+    footer{
+        height: 30vw;
+    }
+}
+@media screen and (max-width: 500px) {
+    .containing6{
+        align-content: center;
+    }
+    .content6{
+        margin-bottom: 3vw;
+    }
+    .containgInput{
+        display: flex;
+        flex-direction: column;
+    }
+    .containgInput input{
+        width: 76vw;
+    }
+    .submit, .reset{
+        padding: 7px 0;
+    }
+    .containgInput input, ::placeholder{
+        font-weight: normal;
+    }
+}
+@media screen and (min-width: 701px) and (max-width: 800px) {
+    .info4 svg{
+        margin-left: -5px;
+        min-width: fit-content;
+    }
+}
+@media screen and (min-width: 601px) and (max-width: 700px) {
+    .info4 svg{
+        transform: scale(.8);
+        margin-left: -16px;
+        margin-right: 3px;
+    }
+}

@@ -1,0 +1,115 @@
+@font-face {
+    font-family: 'Cinzel';
+    src: url('../Fonts/../Fonts/Cinzel-Regular.woff2') format('woff2'),
+        url('../Fonts/Cinzel-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cinzel';
+    src: url('../Fonts/Cinzel-Bold.woff2') format('woff2'),
+        url('../Fonts/Cinzel-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cinzel';
+    src: url('../Fonts/Cinzel-Black.woff2') format('woff2'),
+        url('../Fonts/Cinzel-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cinzel';
+    src: url('../Fonts/Cinzel-Black.woff2') format('woff2'),
+        url('../Fonts/Cinzel-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cinzel';
+    src: url('../Fonts/Cinzel-Bold.woff2') format('woff2'),
+        url('../Fonts/Cinzel-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cinzel';
+    src: url('../Fonts/Cinzel-Regular.woff2') format('woff2'),
+        url('../Fonts/Cinzel-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cinzel Decorative';
+    src: url('../Fonts/CinzelDecorative-Regular.woff2') format('woff2'),
+        url('../Fonts/CinzelDecorative-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cinzel Decorative';
+    src: url('../Fonts/CinzelDecorative-Black.woff2') format('woff2'),
+        url('../Fonts/CinzelDecorative-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cinzel Decorative';
+    src: url('../Fonts/CinzelDecorative-Bold.woff2') format('woff2'),
+        url('../Fonts/CinzelDecorative-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cinzel Decorative';
+    src: url('../Fonts/CinzelDecorative-Bold.woff2') format('woff2'),
+        url('../Fonts/CinzelDecorative-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cinzel Decorative';
+    src: url('../Fonts/CinzelDecorative-Black.woff2') format('woff2'),
+        url('../Fonts/CinzelDecorative-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cinzel Decorative';
+    src: url('../Fonts/CinzelDecorative-Regular.woff2') format('woff2'),
+        url('../Fonts/CinzelDecorative-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Vanillate';
+    src: url('../Fonts/Vanillate.woff2') format('woff2'),
+        url('../Fonts/Vanillate.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

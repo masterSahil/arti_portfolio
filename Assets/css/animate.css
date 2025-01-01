@@ -1,0 +1,108 @@
+@keyframes profile {
+    0%{
+        transform: translateY(10px);
+    }
+    100%{
+        transform: translateY(-10px);
+    }
+}
+@keyframes blink {
+    0%, 100% {
+        border-color: white;
+    }
+    50% {
+        border-color: transparent;
+    }
+}
+@keyframes row-animate1 {
+    100%{
+        transform: translateX(-2050px);
+    }
+}
+@keyframes row-animate2 {
+    100%{
+        transform: translateX(1vw);
+    }
+}
+@keyframes row-animate3 {
+    100%{
+        transform: translateX(-81.5vw);
+    }
+}
+@keyframes row-animate4 {
+    100%{
+        transform: translateX(-87vw);
+    }
+}
+@keyframes animate-bar {
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 90%;
+    }
+}
+@keyframes animate-bar2 {
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 85%;
+    }
+}
+@keyframes animate-bar3 {
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 88%;
+    }
+}
+@keyframes animate-bar4 {
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 85%;
+    }
+}
+@keyframes animate-bar5 {
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 80%;
+    }
+}
+@keyframes animate-bar6 {
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 82%;
+    }
+}
+@keyframes animate-bar7 {
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 78%;
+    }
+}
+@keyframes animate-bar8 {
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 85%;
+    }
+}
+@keyframes animate-bar9 {
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 88%;
+    }
+}
