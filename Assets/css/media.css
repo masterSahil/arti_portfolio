@@ -544,6 +544,9 @@
         bottom: 10px;
         right: 10px;
     }
+    .main{
+        cursor: default;
+    }
 }
 @media screen and (max-width: 360px) {
     .work{
